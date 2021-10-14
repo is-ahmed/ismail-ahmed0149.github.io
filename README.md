@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Ismail 👋
+
+I'm a 2nd year student in CS at the University of Toronto. Currently seeking internship opportunities
+for Summer 2022.
+
+⚡ Fun fact: I have an identical twin brother
 
 <!--
 **ismail-ahmed0149/ismail-ahmed0149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
