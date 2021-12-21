@@ -28,7 +28,7 @@ export const aboutData = {
 export const projectsData = [
   {
     id: nanoid(),
-    img: 'project.jpg',
+    img: 'RustLock.png',
     title: 'RustLock',
     info: 'This is a terminal password manager that I made in order to learn Rust and cryptography. Still currentlly in development.',
     info2: '',
@@ -37,7 +37,8 @@ export const projectsData = [
   },
   {
     id: nanoid(),
-    img: 'project.jpg',
+    // Will have to find a good image later
+    img: null,
     title: 'BinoculaRSS',
     info: 'BinoculaRSS is an RSS reader application, still currently under development. It is built using Kotlin and Jetpack Compose.',
     info2: '',
