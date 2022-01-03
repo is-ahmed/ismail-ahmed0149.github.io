@@ -69,7 +69,7 @@ export const footerData = {
     {
       id: nanoid(),
       name: 'linkedin',
-      url: 'https://linkedin/in/ismail-ahmed0149',
+      url: 'https://linkedin.ca/in/ismail-ahmed0149',
     },
     {
       id: nanoid(),
