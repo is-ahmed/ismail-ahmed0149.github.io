@@ -33,7 +33,7 @@ export const projectsData = [
     info: 'This is a terminal password manager that I made in order to learn Rust and cryptography. Still currentlly in development.',
     info2: '',
     url: '',
-    repo: 'https://github.com/cobidev/react-simplefolio', // if no repo, the button will not show up
+    repo: 'https://github.com/ismail-ahmed0149/rustlock', // if no repo, the button will not show up
   },
   {
     id: nanoid(),
